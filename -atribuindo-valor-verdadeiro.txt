@@ -1,0 +1,2 @@
+// escreva sua solução abaixo
+let jaVotou = true
