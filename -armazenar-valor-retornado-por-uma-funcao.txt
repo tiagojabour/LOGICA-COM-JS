@@ -1,0 +1,5 @@
+function soma(x, y) {
+    return x + y
+}
+
+let total = soma(10, 20)
